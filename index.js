@@ -1,7 +1,7 @@
 function MonFirstClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -15,7 +15,7 @@ function MonFirstClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -25,7 +25,7 @@ function MonFirstClass() {
 function MonSecondClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -39,7 +39,7 @@ function MonSecondClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -49,7 +49,7 @@ function MonSecondClass() {
 function MonThirdClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -63,7 +63,7 @@ function MonThirdClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -73,7 +73,7 @@ function MonThirdClass() {
 function MonForthClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -87,7 +87,7 @@ function MonForthClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -97,7 +97,7 @@ function MonForthClass() {
 function MonFifthClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -111,7 +111,7 @@ function MonFifthClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -121,7 +121,7 @@ function MonFifthClass() {
 function TueFirstClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -135,7 +135,7 @@ function TueFirstClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -145,7 +145,7 @@ function TueFirstClass() {
 function TueSecondClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -159,7 +159,7 @@ function TueSecondClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -169,7 +169,7 @@ function TueSecondClass() {
 function WedFirstClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -183,7 +183,7 @@ function WedFirstClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -193,7 +193,7 @@ function WedFirstClass() {
 function WedSecondClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -207,7 +207,7 @@ function WedSecondClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -217,7 +217,7 @@ function WedSecondClass() {
 function WedThirdClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -231,7 +231,7 @@ function WedThirdClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -241,7 +241,7 @@ function WedThirdClass() {
 function ThuFirstClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -255,7 +255,7 @@ function ThuFirstClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -265,7 +265,7 @@ function ThuFirstClass() {
 function ThuSecondClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -279,7 +279,7 @@ function ThuSecondClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
@@ -289,7 +289,7 @@ function ThuSecondClass() {
 function FriFirstClass() {
 
   var url = 'https://api.line.me/v2/bot/message/push';
-  var channelKey = '0yXaHGXcBhYy8oOaueQV0T7B7dnrhQcwv/mRJM7ci3lGN0ZCMyrwU3fOhRXT5WxHzyOFn0GUgLA8qe121STFcmVcIw1xBy7sfyEAbmgQ/X5xNkpYk1U/BVAbFYVml4pDFDbo7zcBYGGt8mvZQNPx0QdB04t89/1O/w1cDnyilFU=';
+  var channelKey = '***';
 
   var messages = [{
     'type': 'text',
@@ -303,7 +303,7 @@ function FriFirstClass() {
     },
     'method': 'post',
     'payload': JSON.stringify({
-      'to': 'Uc9445123157faf15e87df25cea00123f',
+      'to': '***',
       'messages': messages,
     }),
   });
