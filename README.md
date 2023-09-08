@@ -1,11 +1,11 @@
 # Classroom-Notification-System
 **大学教室通知システム**
 
-![IMG_8605](https://github.com/OyadomariTaiki/Classroom-Notification-System/assets/81083980/7d4f466e-4d3d-4048-b05a-d7ab0dd82601)
-
 授業の30分前くらいを目安に教室の番号をLINEに通知するシステムを作りました。
 
 GASを使用し、トリガを用いて実装しました。
+
+![IMG_8605](https://github.com/OyadomariTaiki/Classroom-Notification-System/assets/81083980/7d4f466e-4d3d-4048-b05a-d7ab0dd82601)
 
 **きっかけ**
 
